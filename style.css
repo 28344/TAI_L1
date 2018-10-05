@@ -1,4 +1,15 @@
-body {background-color: grey}
-ul {background-color: black}
-li {color: white}
-ul li{display:inline;}
+body{
+    background: silver;
+}
+
+ul>li{
+    display: inline-block;
+}
+a{
+    background: black;
+    color: #ffffff;
+    text-decoration: none;
+}
+.misiek1{
+    background-color: bisque;
+}
